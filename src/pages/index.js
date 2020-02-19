@@ -9,8 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Hi Max!</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Just use codesandbox.io instead of VSCode on your local machine.</p>
+    <p>Change 2.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
